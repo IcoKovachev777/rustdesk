@@ -763,7 +763,7 @@ pub static ref T: std::collections::HashMap<&'static str, &'static str> =
         ("Lock canvas", "Заключване на платното"),
         ("Sync clipboard between sessions", "Синхронизиране на клипборда между сесиите"),
         ("sync-clipboard-between-sessions-tip", "Текст или изображения, копирани в една отдалечена сесия, се изпращат и към клипборда на другите ви свързани сесии."),
-        ("terminal-clipboard-write-tip", ""),
+        ("terminal-clipboard-write-tip", "Терминално приложение иска да копира текст в клипборда на това устройство. Ако разрешението е предоставено, то важи за терминалните приложения във всички."),
         ("Allow terminal apps to copy to clipboard", ""),
         ("Enable", "Активирай"),
         ("Reuse one connection for port forwarding", "Използване на една връзка за пренасочване на портове"),
