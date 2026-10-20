@@ -127,7 +127,7 @@ pub static ref T: std::collections::HashMap<&'static str, &'static str> =
         ("Optimize reaction time", "Оптимизирай времето за реакция"),
         ("Custom", "По избор"),
         ("Show remote cursor", "Показвай отдалечения курсор"),
-        ("Show quality monitor", "Показвай прозорец за качество"),
+        ("Show quality monitor", "Показвай прозорец за качество на връзката"),
         ("Disable clipboard", "Забрана на клипборда"),
         ("Lock after session end", "Заключване след край на сесията"),
         ("Insert Ctrl + Alt + Del", "Въведи Ctrl + Alt + Del"),
